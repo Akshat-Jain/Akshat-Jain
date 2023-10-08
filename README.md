@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@akjn.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@akjn.dev)](mailto:me@akjn.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshat-Jain&label=Profile%20views&color=0e75b6&style=flat-square)
 
-- 🔭 I’m currently working as a Software Engineer at Yugabyte, building [YugabyteDB Managed](https://cloud.yugabyte.com).
+- 🔭 Building [YugabyteDB Managed](https://cloud.yugabyte.com) at Yugabyte 🚀
 - 👯 I’m always on the lookout for exciting collaborations on interesting projects!
-- 💬 Ask me about chess, books, anime, music.
+- 💬 Ask me about tech, chess, books, anime, music.
 - 📫 Reach out to me at me@akjn.dev
 - 📄 Know about my experiences at [resume.akjn.dev](https://resume.akjn.dev)
 
