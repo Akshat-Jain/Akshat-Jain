@@ -18,4 +18,5 @@
 
 ### Blog posts ✍️ 
 <!-- BLOG-POST-LIST:START -->
+- [Correlated Subqueries and Why You Need To Know Them](https://blog.akjn.dev/correlated-subqueries-and-why-you-need-to-know-them)
 <!-- BLOG-POST-LIST:END -->
