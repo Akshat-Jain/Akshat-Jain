@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshat-Jain&label=Profile%20views&color=0e75b6&style=flat-square)
 
 - 🔭 Building [YugabyteDB Managed](https://cloud.yugabyte.com) at Yugabyte 🚀
-- 👯 I’m always on the lookout for exciting collaborations on interesting projects!
+- 👯 Always open to collaborating on exciting projects 🧑‍💻
 - 💬 Ask me about tech, chess, books, anime, music.
 - 📫 Reach out to me at me@akjn.dev
 - 📄 Know about my experiences at [resume.akjn.dev](https://resume.akjn.dev)
