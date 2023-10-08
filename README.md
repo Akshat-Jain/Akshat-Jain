@@ -22,5 +22,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Engineer at Yugabyte, building [YugabyteDB Managed](https://cloud.yugabyte.com).
 - 👯 I’m always on the lookout for exciting collaborations on interesting projects!
+- 💬 Ask me about chess, books, anime, music.
 - 📫 How to reach me **me@akjn.dev**
-- 📄 Know about my experiences [resume.akjn.dev](https://resume.akjn.dev)
+- 📄 Know about my experiences at [resume.akjn.dev](https://resume.akjn.dev)
+
+
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
