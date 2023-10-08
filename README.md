@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [your name.](https://www.goodreads.com/review/show/5894719844?utm_medium=api&utm_source=rss) by Makoto Shinkai (⭐️4.4)
 - [Stasiland: Stories from Behind the Berlin Wall](https://www.goodreads.com/review/show/5894719487?utm_medium=api&utm_source=rss) by Anna Funder (⭐️4.19)
+- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.38)
 - [Effective Java](https://www.goodreads.com/review/show/5894718823?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.63)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/5894718402?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.73)
-- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
