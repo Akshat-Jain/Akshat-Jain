@@ -15,7 +15,7 @@
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Stasiland: Stories from Behind the Berlin Wall](https://www.goodreads.com/review/show/5894719487?utm_medium=api&utm_source=rss) by Anna Funder (⭐️4.19)
-- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.39)
+- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.38)
 - [Effective Java](https://www.goodreads.com/review/show/5894718823?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.62)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/5894718402?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.73)
 <!-- GOODREADS-LIST:END -->
