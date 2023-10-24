@@ -22,5 +22,6 @@
 
 ### Blog posts ✍️ 
 <!-- BLOG-POST-LIST:START -->
+- [Explaining and Analysing Postgres EXPLAIN ANALYSE](https://blog.akjn.dev/explaining-and-analysing-postgres-explain-analyse)
 - [Correlated Subqueries and Why You Need To Know Them](https://blog.akjn.dev/correlated-subqueries-and-why-you-need-to-know-them)
 <!-- BLOG-POST-LIST:END -->
