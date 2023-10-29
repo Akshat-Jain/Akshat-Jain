@@ -5,11 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@akjn.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@akjn.dev)](mailto:me@akjn.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshat-Jain&label=Profile%20views&color=0e75b6&style=flat-square)
 
-- 🔭 Building [YugabyteDB Managed](https://cloud.yugabyte.com) at Yugabyte 🚀
+- 🔭 Building [YugabyteDB Managed](https://cloud.yugabyte.com) at Yugabyte 🚀. My work profile: [@akjn-yb](https://www.github.com/akjn-yb)
 - 👯 Always open to collaborating on exciting projects 🧑‍💻
 - 💬 Ask me about tech, chess, books, anime, music.
 - 📫 Reach out to me at me@akjn.dev
-- 📄 Know about my experiences at [resume.akjn.dev](https://resume.akjn.dev)
+- 👋 Know about my experiences at [akjn.dev](https://www.akjn.dev)
+- 📄 View my resume at [resume.akjn.dev](https://resume.akjn.dev)
 
 
 ### Books I'm currently reading 📚
@@ -21,6 +22,9 @@
 <!-- GOODREADS-LIST:END -->
 
 ### Blog posts ✍️ 
+Check out [blog.akjn.dev](https://blog.akjn.dev)! 😁
+
+My recent blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Explaining and Analysing Postgres EXPLAIN ANALYSE](https://blog.akjn.dev/explaining-and-analysing-postgres-explain-analyse)
 - [Correlated Subqueries and Why You Need To Know Them](https://blog.akjn.dev/correlated-subqueries-and-why-you-need-to-know-them)
