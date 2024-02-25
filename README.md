@@ -16,7 +16,7 @@
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Managing Projects with GNU Make](https://www.goodreads.com/review/show/5972734993?utm_medium=api&utm_source=rss) by Robert Mecklenburg (⭐️3.63)
-- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5941920903?utm_medium=api&utm_source=rss) by Alex Petrov (⭐️4.28)
+- [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/review/show/5941920903?utm_medium=api&utm_source=rss) by Alex Petrov (⭐️4.27)
 - [Stasiland: Stories from Behind the Berlin Wall](https://www.goodreads.com/review/show/5894719487?utm_medium=api&utm_source=rss) by Anna Funder (⭐️4.19)
 - [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.35)
 - [Effective Java](https://www.goodreads.com/review/show/5894718823?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.61)
