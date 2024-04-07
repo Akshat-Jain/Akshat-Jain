@@ -5,7 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-me@akjn.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@akjn.dev)](mailto:me@akjn.dev)
 ![Profile Views](https://komarev.com/ghpvc/?username=Akshat-Jain&label=Profile%20views&color=0e75b6&style=flat-square)
 
-- 🔭 Building [YugabyteDB Managed](https://cloud.yugabyte.com) at Yugabyte 🚀. My work profile: [@akjn-yb](https://www.github.com/akjn-yb)
+- 🔭 Working on [Apache Druid](https://github.com/apache/druid) at [Imply](https://imply.io) 🚀.
+- 🔭 Previously: Worked on [YugabyteDB Managed](https://cloud.yugabyte.com) at [Yugabyte](https://www.yugabyte.com) 🚀 for almost 3 years. My work profile: [@akjn-yb](https://www.github.com/akjn-yb)
 - 👯 Always open to collaborating on exciting projects 🧑‍💻
 - 💬 Ask me about tech, chess, books, anime, music.
 - 📫 Reach out to me at me@akjn.dev
