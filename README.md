@@ -29,6 +29,6 @@ Check out [blog.akjn.dev](https://blog.akjn.dev)! 😁
 
 My recent blogs:
 <!-- BLOG-POST-LIST:START -->
-- [Explaining and Analysing Postgres EXPLAIN ANALYSE](https://blog.akjn.dev/explaining-and-analysing-postgres-explain-analyse)
-- [Correlated Subqueries and Why You Need To Know Them](https://blog.akjn.dev/correlated-subqueries-and-why-you-need-to-know-them)
+- [Explaining and Analysing Postgres EXPLAIN ANALYSE](https://akjn.hashnode.dev/explaining-and-analysing-postgres-explain-analyse)
+- [Correlated Subqueries and Why You Need To Know Them](https://akjn.hashnode.dev/correlated-subqueries-and-why-you-need-to-know-them)
 <!-- BLOG-POST-LIST:END -->
