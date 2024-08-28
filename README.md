@@ -18,7 +18,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Java Concurrency in Practice](https://www.goodreads.com/review/show/6628149395?utm_medium=api&utm_source=rss) by Brian Goetz (⭐️4.47)
 - [Stasiland: Stories from Behind the Berlin Wall](https://www.goodreads.com/review/show/5894719487?utm_medium=api&utm_source=rss) by Anna Funder (⭐️4.2)
-- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.34)
+- [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.33)
 - [Effective Java](https://www.goodreads.com/review/show/5894718823?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.6)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/5894718402?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.72)
 <!-- GOODREADS-LIST:END -->
