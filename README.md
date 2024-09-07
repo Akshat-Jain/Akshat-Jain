@@ -17,7 +17,7 @@
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Effective Java](https://www.goodreads.com/review/show/5894718823?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.6)
-- [Crafting Interpreters](https://www.goodreads.com/review/show/6819200595?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.69)
+- [Crafting Interpreters](https://www.goodreads.com/review/show/6819200595?utm_medium=api&utm_source=rss) by Robert Nystrom (⭐️4.68)
 - [Java Concurrency in Practice](https://www.goodreads.com/review/show/6628149395?utm_medium=api&utm_source=rss) by Brian Goetz (⭐️4.47)
 - [Stasiland: Stories from Behind the Berlin Wall](https://www.goodreads.com/review/show/5894719487?utm_medium=api&utm_source=rss) by Anna Funder (⭐️4.2)
 - [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.33)
