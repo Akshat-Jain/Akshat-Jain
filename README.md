@@ -15,10 +15,10 @@
 
 ### Books 📚
 
-You can view the books I'm currently reading, as well as the ones I've read in the past at <a href="https://books.akjn.dev" target="_blank">books.akjn.dev</a>! 😁
+You can view the books I'm currently reading, as well as the ones I've read in the past at [books.akjn.dev](https://books.akjn.dev)! 😁
 
 ### Blog posts ✍️ 
-Check out <a href="https://blog.akjn.dev" target="_blank">blog.akjn.dev</a>! 😁
+Check out [blog.akjn.dev](https://blog.akjn.dev)! 😁
 
 My recent blogs:
 <!-- BLOG-POST-LIST:START -->
