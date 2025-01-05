@@ -14,6 +14,7 @@
 - 📄 View my resume at [resume.akjn.dev](https://resume.akjn.dev)
 
 
+<<<<<<< Updated upstream
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Operating Systems: Three Easy Pieces](https://www.goodreads.com/review/show/6884431698?utm_medium=api&utm_source=rss) by Remzi H. Arpaci-Dusseau (⭐️4.71)
@@ -23,6 +24,11 @@
 - [Elon Musk](https://www.goodreads.com/review/show/5894718013?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐️4.32)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/5894718402?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.72)
 <!-- GOODREADS-LIST:END -->
+=======
+### Books 📚
+
+You can view the books I'm currently reading, as well as the ones I've read in the past at [books.akjn.dev](https://books.akjn.dev)! 😁
+>>>>>>> Stashed changes
 
 ### Blog posts ✍️ 
 Check out [blog.akjn.dev](https://blog.akjn.dev)! 😁
